@@ -1,0 +1,15 @@
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\bin\Debug\WindowsMediaPlayerProject.exe.config
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\bin\Debug\WindowsMediaPlayerProject.exe
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\bin\Debug\WindowsMediaPlayerProject.pdb
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\obj\Debug\MainWindow.g.cs
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\obj\Debug\App.g.cs
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\obj\Debug\WindowsMediaPlayerProject_MarkupCompile.cache
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\obj\Debug\WindowsMediaPlayerProject_MarkupCompile.lref
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\obj\Debug\MainWindow.baml
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\obj\Debug\WindowsMediaPlayerProject.g.resources
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\obj\Debug\WindowsMediaPlayerProject.Properties.Resources.resources
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\obj\Debug\WindowsMediaPlayerProject.csproj.GenerateResource.Cache
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\obj\Debug\WindowsMediaPlayerProject.exe
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\obj\Debug\WindowsMediaPlayerProject.pdb
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\obj\Debug\WindowsMediaPlayerProject.csprojAssemblyReference.cache
+I:\gehad\iti\wpf\project\WindowsMediaPlayerProject\WindowsMediaPlayerProject\obj\Debug\WindowsMediaPlayerProject.csproj.CoreCompileInputs.cache
